@@ -1,0 +1,35 @@
+[33mcommit be3381d9be5139a417cd5449febff0d52059bf5e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrama4[m[33m, [m[1;31morigin/rama4[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: f2efc4e c4b4020
+Author: zDanielGomez <dg154906@gmail.com>
+Date:   Tue May 14 09:19:34 2024 -0500
+
+    Merge pull request #2 from zDanielGomez/rama3
+    
+    Se agrego un fondo
+
+[33mcommit f2efc4ec0d7309240f31dee9a350003e1fe9f55a[m
+Merge: b9c7777 196d84a
+Author: zDanielGomez <dg154906@gmail.com>
+Date:   Tue May 14 09:19:14 2024 -0500
+
+    Merge pull request #1 from zDanielGomez/rama1
+    
+    Ajustes de archivo HTML
+
+[33mcommit c4b402023204778aa58aabd9089cf31b3aca7835[m[33m ([m[1;31morigin/rama3[m[33m)[m
+Author: andrey <andreyrimero381@gmail.com>
+Date:   Fri May 10 17:17:23 2024 -0500
+
+    Se agrego un fondo
+
+[33mcommit 196d84a3d776079d5251770008c9ddd108bd5910[m[33m ([m[1;31morigin/rama1[m[33m)[m
+Author: Gomez <dg154906@gmail.com>
+Date:   Fri May 10 17:01:59 2024 -0500
+
+    Ajustes de archivo HTML
+
+[33mcommit b9c77779579a93ab7670f426a22ee2c6638f8293[m[33m ([m[1;31morigin/rama2[m[33m)[m
+Author: Gomez <dg154906@gmail.com>
+Date:   Fri May 10 16:26:09 2024 -0500
+
+    Se agregaron los archivos iniciales

@@ -13,22 +13,30 @@ form{
     border-radius: 10px;
 }
 
-form .grupo{
-
-    position: relative;
-    margin: 20px;
-}
-
-
 h1{
-
     text-align: center;
     font-weight: 700;
+    padding: 20px;
+}
+
+
+.Contenedor{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Nombre, .Descripcion, .Precio{
+
+    margin: auto;
+    padding: 20px;
 
 }
 
-#Guardar{
-    justify-content: center;
+form .grupo{
+    display: flex;
     position: relative;
-    
+    align-items: center;
+    margin: 20px;
+    justify-content: space-around;
 }
